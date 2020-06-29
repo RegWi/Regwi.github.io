@@ -7,4 +7,4 @@ Er ist rot schwarz getiegertErstmals erschien er in den USA . Heu e Weltweit
 * fett
 * faul
 * Katze 
-*s chwarzrot
+* Farbe schwarzrot
